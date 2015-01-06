@@ -1,0 +1,47 @@
+/*-- 
+
+A blank stylesheet for you to customize Beams to your heart's content! 
+
+
+
+--*/
+
+
+#homepg {
+
+  background: #00853E;  /* Green hex code copied from flag at http://journalism.unt.edu */
+  color: white;
+  padding-top: 5em;
+
+}
+
+#homepg h3 {text-align: center}
+
+#homepg a {color: white}
+
+#homepg #untlogo {}
+
+#homepg img {
+  display: inline-block;
+  width: 45%;
+  margin: 1em
+  }
+
+#homepg #mblogo {
+  border: 1.5px solid white;
+  padding: 0.25em 0.75em 0.25em 0.25em ;
+}
+
+#homepg #ghlogo {
+  width: 10%;
+  min-width: 50px
+}
+
+#errormsg .twelvecolumn {
+  background: white;
+  opacity: 0.85;
+  padding: 1em;
+  position: absolute; 
+  bottom: 1em;
+  left: 1em;
+}
